@@ -32,7 +32,6 @@ This project is built using:
 
 ## Usage
 - Click to add or remove walls.
-- Drag to move the start and end nodes.
 - Click the "Visualize" button to start the pathfinding animation.
 ## Contributing
 - Contributions to the Shortest Path Visualizer are welcome. Please read the contributing guidelines before making a pull request.
